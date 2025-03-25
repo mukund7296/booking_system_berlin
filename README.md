@@ -13,7 +13,7 @@ This project sets up a Django web application with Docker and PostgreSQL using `
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repository-url>
+git clone https://github.com/mukund7296/booking_system_berlin.git
 cd django-docker
 ```
 
