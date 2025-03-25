@@ -50,7 +50,7 @@ Port: 5432
 - Check logs: `docker-compose logs`
 - Rebuild containers: `docker-compose up --build`
 
-## outputs as Images
+## OUTPUT as Image's
 <img width="1403" alt="image" src="https://github.com/user-attachments/assets/a365f2a1-0fd0-4113-b6fa-f70f7617643f" />
 
 # Login Page
