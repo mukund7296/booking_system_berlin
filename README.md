@@ -50,3 +50,47 @@ Port: 5432
 - Check logs: `docker-compose logs`
 - Rebuild containers: `docker-compose up --build`
 
+##outputs as Images
+<img width="1403" alt="image" src="https://github.com/user-attachments/assets/a365f2a1-0fd0-4113-b6fa-f70f7617643f" />
+
+#Login Page
+<img width="767" alt="image" src="https://github.com/user-attachments/assets/85c2215b-ee22-4db5-b8e8-a9d0dad670c0" />
+
+# Registration page
+<img width="855" alt="image" src="https://github.com/user-attachments/assets/af06eff2-4ee1-46b4-9f72-892e4fdb8b11" />
+
+# Main page
+<img width="1426" alt="image" src="https://github.com/user-attachments/assets/50b477d8-767d-43bf-945a-c5fbdae283da" />
+
+# booking details
+
+<img width="1152" alt="image" src="https://github.com/user-attachments/assets/8cb0e408-b97c-47c0-8fc4-37f704d7f96b" />
+
+# admin interface  Users
+<img width="1432" alt="image" src="https://github.com/user-attachments/assets/d78e49ca-fd8c-411d-a18c-fcaa2a43e192" />
+
+# admin interface  Facilities
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/945a551d-940e-4c98-930d-4aa2787102c4" />
+
+# admin interface  Facilities subpage (Add New facilities)
+<img width="1099" alt="image" src="https://github.com/user-attachments/assets/dafa1e95-feee-41cd-96a3-d299780f514d" />
+
+Only the admin can approve bookings after verifying availability and payment. Once approved, the bookings will be visible under the "My Bookings" section as confirmed.
+<img width="1401" alt="image" src="https://github.com/user-attachments/assets/a118d434-0f53-48f6-9112-01db3b3a6638" />
+
+# Docker Runing screenshot
+
+<img width="1219" alt="image" src="https://github.com/user-attachments/assets/e9e025f6-e834-4c0b-8216-9c4615e02bb6" />
+# You can execute all Django commands using this terminal as well.
+
+
+<img width="1424" alt="image" src="https://github.com/user-attachments/assets/815a1b7c-5dba-4397-ab74-07e3072cc6f6" />
+
+
+# Thank you
+
+
+
+
+
+
